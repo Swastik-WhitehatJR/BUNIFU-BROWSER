@@ -1,9 +1,18 @@
+# ABOUT THE PROJECT
+
+THIS IS A CHROMIUM WEB BROWSER CREATED BY ME IN C# WINDOWS FORMS APPLICATION USING VISUAL STUDIO 2019, FIRESHARP, BUNIFU FRAMEWORK AND GUNA FRAMEWORK.
+
 ![Image description](logo.png)
 
-# Bunifu Browser
-
-This is a simple modern browser written in c# on top of Bunifu Framework
-
-# Screenshot
-
 ![Image description](ss.png)
+
+# ABOUT ME
+![My Image](swastik.png)
+
+- 👋 Hi, I’m [Swastik Bhattacharjee](https://github.com/Swastik-WhitehatJR).
+- 👀 I’m interested in Programming and designing.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m now learning to it on WhitehatJR.
+- 📫 How to reach me by mentioning me in github at @Swastik-WhitehatJR.
+- 💌 How to mail me in swastikbhattacharjee.07@gmail.com (my email id).
+
