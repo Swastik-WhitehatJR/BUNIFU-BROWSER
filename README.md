@@ -11,6 +11,6 @@ THIS IS A CHROMIUM WEB BROWSER CREATED BY ME IN C# WINDOWS FORMS APPLICATION USI
 - 👀 I’m interested in Programming and designing.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m now learning to it on WhitehatJR.
-- 📫 How to reach me by mentioning me in github at @Swastik-WhitehatJR.
-- 💌 How to mail me in swastikbhattacharjee.07@gmail.com (my email id).
+- 📫 You can reach me by mentioning me in github at @Swastik-WhitehatJR.
+- 💌 You can mail me in swastikbhattacharjee.07@gmail.com (my email id).
 
